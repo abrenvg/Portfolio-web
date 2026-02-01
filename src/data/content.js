@@ -5,7 +5,7 @@ export const content = {
   hero: {
     title: "Abren V Gigimon",
     subtitle: "Aspiring Computer Science Engineer & Analyst",
-    description: "Bridging the gap between technology and sports performance through data analytics and AI.",
+    description: "Advancing the frontiers of Data Science by applying ML architectures and discovering their application to the dynamics of human movement and sports.",
     cta: "Contact Me",
     resume: "https://drive.google.com/file/d/1xsP42hFGo9hU8-uPVrBEwNk00YkYB4VW/view?usp=drive_link"
   },
@@ -33,7 +33,7 @@ export const content = {
       },
       {
         name: "Data Analytics & AI",
-        items: ["Machine Learning", "Pandas", "Numpy", "Matplotlib", "Streamlit", "OpenCV", "Video Analytics", "Jupyter Notebook"]
+        items: ["Machine Learning", "Pandas","SQL", "Scikit-learn","Numpy", "Matplotlib", "Streamlit", "OpenCV", "Video Analytics", "Jupyter Notebook"]
       },
       {
         name: "Sports Tech",
