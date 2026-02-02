@@ -46,13 +46,13 @@ export const content = {
     items: [
       {
         title: "ProJump",
-        description: "IMU-based jump height calculation in collaboration with Swedish Beach Volleyball. Tracks beach-volleyball jump height on sand with a chest-worn IMU, giving live counts and height per jump using vertical acceleration fusion.",
-        tags: ["IMU", "Python", "Data Structure"]
+        description: "IMU-based jump height calculation in collaboration with Swedish Beach Volleyball. Tracks beach volleyball jump height on sand with a chest-worn IMU, giving live counts and height per jump using vertical acceleration fusion.",
+        tags: ["IMU", "Python", "Data Structure", "Algorithm Design","Sensor Fusion"]
       },
       {
         title: "IMU-based Motion Analysis",
         description: "Data Visualization and Analysis using IMU sensor. Extracted and visualized acceleration and gyroscope data from the Polar Verity Sense. Applied Kalman and EWMA filters to compute orientation parameters.",
-        tags: ["Data Analytics", "Signal Processing", "Polar Verity Sense"]
+        tags: ["Data Analytics", "Signal Processing", "Polar Verity Sense","Filtering Techniques"]
       },
       {
         title: "Soccer App",
@@ -61,8 +61,8 @@ export const content = {
       },
       {
         title: "AI Interviewer",
-        description: "Real-time AI interview system with an interactive avatar. Included facial expression detection and fluency detection.",
-        tags: ["AI", "React", "NLP"]
+        description: "Real-time AI interview system with use of LLM to generate questions for an interactive avatar. Included facial expression detection and fluency detection.",
+        tags: ["AI", "React", "NLP","Computer Vision", "LLM"]
       }
     ]
   },
