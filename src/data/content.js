@@ -7,7 +7,7 @@ export const content = {
     subtitle: "Aspiring Computer Science Engineer & Analyst",
     description: "Advancing the frontiers of Data Science by applying ML architectures and discovering their application to the dynamics of human movement and sports.",
     cta: "Contact Me",
-    resume: "https://drive.google.com/file/d/1xsP42hFGo9hU8-uPVrBEwNk00YkYB4VW/view?usp=drive_link"
+    resume: "https://drive.google.com/file/d/1tQ0EJMgcVAkyC4ix8dhqdqvGiUaG4mlx/view?usp=drive_link"
   },
   about: {
     title: "About Me",
