@@ -37,7 +37,7 @@ export const content = {
       },
       {
         name: "Sports Tech",
-        items: ["IMU Data Analysis", "Motion Analysis", "Sports Data Analytics"]
+        items: ["IMU Data Analysis", "Motion Analysis", "Sports Data Analytics", "Sensor Fusion", "Biomechanics(OpenSim)"]
       }
     ]
   },
