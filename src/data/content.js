@@ -33,7 +33,7 @@ export const content = {
       },
       {
         name: "Data Analytics & AI",
-        items: ["Machine Learning", "Pandas","SQL", "Scikit-learn","Numpy", "Matplotlib", "Streamlit", "OpenCV", "Video Analytics", "Jupyter Notebook"]
+        items: ["Machine Learning", "Pandas","SQL", "Scikit-learn","Pytorch","Numpy", "Matplotlib", "Streamlit", "OpenCV", "Video Analytics", "Jupyter Notebook"]
       },
       {
         name: "Sports Tech",
@@ -53,6 +53,16 @@ export const content = {
         title: "IMU-based Motion Analysis",
         description: "Data Visualization and Analysis using IMU sensor. Extracted and visualized acceleration and gyroscope data from the Polar Verity Sense. Applied Kalman and EWMA filters to compute orientation parameters.",
         tags: ["Data Analytics", "Signal Processing", "Polar Verity Sense","Filtering Techniques"]
+      },
+      {
+        title: "Deep-Learning-for-Gait-Analysis",
+        description: "A class-imbalance-aware neural network trained on preprocessed wearable gait signals accurately classified orthopedic and neurological pathologies using healthy subjects as controls.",
+        tags: ["Deep Learning", "CNN", "Gait Analysis","Pytorch", "Data Preprocessing", "Class Imbalance Handling"]
+      },
+      {
+        title: "Fitness-Activity-Video-Classification Using Deep-Learning",
+        description: "Keypoint-based models with engineered biomechanical features achieved the highest classification accuracy, outperforming the MoViNet video model while using fewer computational resources.",
+        tags: ["Deep Learning", "Keypoint Detection","Computer Vision", "Video Classification","Pytorch", "Data Preprocessing"]
       },
       {
         title: "Soccer App",
